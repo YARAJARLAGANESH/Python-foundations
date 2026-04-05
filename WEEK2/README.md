@@ -1,3 +1,16 @@
+Where in My second Week:
+i learned about classes, methods(types) ,private attributes inheritance, dunder methods 
+csv file reading, writing ,loading and working of csv 
+
+The task of second week is 
+
+Build a Student class with name, grades, GPA calculation method
+Extend Student into a CollegeStudent subclass with department
+Write a CSV reader that loads student data and prints formatted report
+Override __str__ and __repr__ in both classes
+
+The Sturcture of My Task without csv reader step 
+
 Class Design:
 
 1. Student
@@ -20,6 +33,8 @@ Class Design:
      - gpa()
      - __str__()
      - __repr__()
+      
+3. Usage
 
 Relationship:
 CollegeStudent IS-A Student (Inheritance)
