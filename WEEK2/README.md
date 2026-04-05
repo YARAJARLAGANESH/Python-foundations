@@ -1,4 +1,4 @@
-Where in My second Week:
+# Where in My second Week:
 i learned about classes, methods(types) ,private attributes inheritance, dunder methods 
 csv file reading, writing ,loading and working of csv 
 
