@@ -9,7 +9,7 @@ Extend Student into a CollegeStudent subclass with department
 Write a CSV reader that loads student data and prints formatted report
 Override __str__ and __repr__ in both classes
 
-The Sturcture of My Task without csv reader step 
+The Sturcture of My Task
 
 Class Design:
 
